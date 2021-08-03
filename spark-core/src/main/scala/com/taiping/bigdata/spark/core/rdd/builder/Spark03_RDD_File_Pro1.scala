@@ -22,6 +22,7 @@ object Spark03_RDD_File_Pro1 {
 
     println("git test")
     println("git test1")
+    println("hot-fix test")
 
     sc.stop()
 
