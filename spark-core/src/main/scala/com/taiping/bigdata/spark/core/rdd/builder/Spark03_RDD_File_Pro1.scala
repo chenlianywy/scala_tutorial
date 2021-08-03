@@ -20,6 +20,8 @@ object Spark03_RDD_File_Pro1 {
 
     rdd.saveAsTextFile("output")
 
+    println("git test")
+
     sc.stop()
 
   }
