@@ -25,7 +25,7 @@ object Spark03_RDD_File_Pro1 {
     println("hot-fix test")
     println("master test")
     println("hot-fix test2")
-
+    println("远程修改!!!")
     sc.stop()
 
   }
