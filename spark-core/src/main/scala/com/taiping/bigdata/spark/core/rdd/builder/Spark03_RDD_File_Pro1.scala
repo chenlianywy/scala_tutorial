@@ -26,6 +26,8 @@ object Spark03_RDD_File_Pro1 {
     println("master test")
     println("hot-fix test2")
     println("远程修改!!!")
+    println("gitee push test")
+
     sc.stop()
 
   }
